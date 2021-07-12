@@ -38,8 +38,7 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=xngtinh&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xngtinh&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<br>
-<hr>
+<br><br><br><br><br><br>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
