@@ -1,5 +1,5 @@
-### Hi there 👋
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/xngtinh/xngtinh/master/image/pf.gif" />
+### Hey there! I'm Nguyen Xuan Tinh.  👋
+<!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/xngtinh/xngtinh/master/image/pf.gif" /> -->
 
 
 
