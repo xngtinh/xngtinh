@@ -22,8 +22,7 @@
 <!-- - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
 - 🖥 &nbsp; Adobe Xd | Adobe Illustrator | Adobe Photoshop | OpenShot -->
 
-<br>
-<hr>
+<br><br><br><br><br><br><br><br><br><br>
 
 <!-- ![xngtinh's Github Stats](https://github-readme-stats.vercel.app/api?username=xngtinh&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
 
@@ -35,12 +34,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xngtinh&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/xngtinh/github-readme-stats) -->
 
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=xngtinh&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xngtinh&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<div>
+    <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=xngtinh&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xngtinh&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+</div>
 <br><br><br><br><br><br><br><br><br>
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3>Connect with Me </h3>
 
 <p align="center">
 &nbsp; <a href="https://www.linkedin.com/in/xngtinh/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
