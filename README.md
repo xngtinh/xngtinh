@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/xngtinh/xngtinh/master/image/pf.gif" width="500"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/xngtinh/xngtinh/master/image/pf.gif" />
 
 
 
@@ -17,12 +17,11 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | C++ | HTML | CSS | JavaScript 
-- 🌐 &nbsp; Android | flutter | J2EE
-- 🖥 &nbsp; MySQL | Ubuntu | Git
+- 🌐 &nbsp; MySQL | Ubuntu | Git
 <!-- - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
 - 🖥 &nbsp; Adobe Xd | Adobe Illustrator | Adobe Photoshop | OpenShot -->
 
-<br><br><br>
+<br>
 
 <!-- ![xngtinh's Github Stats](https://github-readme-stats.vercel.app/api?username=xngtinh&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
 
