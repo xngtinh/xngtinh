@@ -36,13 +36,14 @@
 <br>
 
 <h3>Connect with Me </h3>
+<p align = "center">
 
-<p align="center">
-&nbsp; <a href="https://www.linkedin.com/in/xngtinh/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:xngtinh@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-<!-- &nbsp; <a href="https://twitter.com/_souvikguria" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://www.instagram.com/the_caffeine__addict/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-</p> -->
+<!-- [<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=blue" />]() -->
+[<img src ="https://img.shields.io/badge/github-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black"/>](https://github.com/xngtinh)
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=9cf"/>](https://www.linkedin.com/in/xngtinh/)
+[<img src="https://img.shields.io/badge/facebook-%2312100E.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=informational"/>](https://www.facebook.com/xngtinh/)
+ <!--  &nbsp; <a href="mailto:xngtinh@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a> -->
+</p>
 
 <!-- addded on 3rd May 2021 -->
 
