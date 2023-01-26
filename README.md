@@ -7,7 +7,7 @@
 
 <!-- - 🔭 &nbsp; Currently working with a company and improving my Flutter skills 
 - 🤔 &nbsp; Exploring new technologies and quick hacks and making boring stuffs automated. -->
-- 🎓 &nbsp; Studying Computer Science at Ho Chi Minh City University of Education.
+- 🎓 &nbsp; BSc in Computer Science.
 
 - 💼 &nbsp; Machine Learning/ Data Science.
 <!-- - 🌱 &nbsp; InfoSec Enthusiast. 
